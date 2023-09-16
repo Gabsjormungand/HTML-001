@@ -1,18 +1,26 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(3, 37, 150);
     color: brown;
 }
 h1{
     background-color: black;
-    color: whitesmoke;
+    color: rgb(194, 0, 194);
 }
 h2{
-    background-color: blanchedalmond;
-    color: blueviolet;
+    background-color: black;
+    color: purple;
 }
 strong{
     font-size: 60px;
     font-weight: 20;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black;
+    color: rgb(2, 85, 180);
+}
+a{
+    color:brown;
+    font-size: smaller;
+}
+a:hover{
+    color:aqua;
+    background-color: black;
 }
